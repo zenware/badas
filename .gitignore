@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+badas.db
+badas.log
+*.sqlite
+.DS_Store

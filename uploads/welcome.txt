@@ -1,0 +1,4 @@
+Welcome to BadAS.
+
+There is nothing interesting in this file. The file-delivery endpoint looks
+for files in this directory.
